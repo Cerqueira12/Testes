@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+comarca {
+    margin: 50px auto 0 50px;
+    display: inline-block;
+}
+
+.cavera {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.5px;
+    color: blue;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.colera {
+    background: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    color: red;
+}
+
+caderno {
+   margin: 150px 0 0 130px;
+   display: inline-block;
+}
+
+.caneta {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 80px;
+    letter-spacing: 0.5px;
+    color: green;
+}
+
+.cama {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 80px;
+    letter-spacing: 0.5px;
+    color: chocolate;
+}
+
+.camisa {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    color: burlywood;
+    margin-top:  30px;
+    margin-bottom: 50px;
+}
+
+main {
+    margin: 100px 0 0 30px;
+    display:inline-block;
+}
+
+.cachorro {
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 80px;
+    letter-spacing: 0.5px;
+    color:black; 
+}
+
+.camarao {
+    margin: 100px 0 0 100px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.cagao {
+    background: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 120px;
+    height: 50px;
+    cursor: pointer;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 10px;
+    letter-spacing: 0.5px;
+    color:green;
+}
